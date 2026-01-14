@@ -1,16 +1,37 @@
-Joel Holmberg
+# Joel Holmberg
+
+<table>
+<tr>
+<td width="50%">
 
 ![IMG_E1292_small](https://github.com/user-attachments/assets/c8676e21-c833-44de-9020-98b5219523e6)
 
-In 2009 I had some viral fame for creating a grid of found youtube videos showing dogs freaking out to the law&order theme song. 
- <img src="https://github.com/user-attachments/assets/01fc1048-fe1b-4cbd-905f-cb6808c62741" width="50%" alt="pups">
- 
+</td>
+<td width="50%">
+
+In 2009 I had some viral fame for creating a grid of found youtube videos showing dogs freaking out to the law&order theme song.
+
 https://boingboing.net/2010/02/23/rachel-maddow-on-dog.html
 
-That post was on nastynets.com , a `web surfing blog` I made with a few other folks. https://anthology.rhizome.org/nasty-nets
+That post was on nastynets.com, a `web surfing blog` I made with a few other folks.
 
+https://anthology.rhizome.org/nasty-nets
+
+</td>
+</tr>
+<tr>
+<td>
+
+<img src="https://github.com/user-attachments/assets/01fc1048-fe1b-4cbd-905f-cb6808c62741" width="100%" alt="pups">
+
+</td>
+<td>
 
 https://github.com/user-attachments/assets/8fda210e-75f8-4941-981d-72a8cdccd02a
+
+</td>
+</tr>
+</table>
 
 
 
