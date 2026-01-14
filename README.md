@@ -12,12 +12,12 @@ A programmer, an artist, a father
 <tr>
 <td width="30%">
 
-<img src="https://github.com/user-attachments/assets/01fc1048-fe1b-4cbd-905f-cb6808c62741" height="120px" style="width: auto; max-width: 100%;" alt="pups">
+<img src="https://github.com/user-attachments/assets/01fc1048-fe1b-4cbd-905f-cb6808c62741" height="240px" style="width: auto; max-width: 100%;" alt="pups">
 
 </td>
 <td width="50%">
 
-In 2009 I had some viral fame for creating a grid of found youtube videos showing dogs freaking out to the law&order theme song.
+In 2010 I had some viral fame for creating a grid of found youtube videos showing dogs freaking out to the law&order theme song.
 
 https://boingboing.net/2010/02/23/rachel-maddow-on-dog.html
 
@@ -34,16 +34,15 @@ https://anthology.rhizome.org/nasty-nets
 </td>
 </tr>
 <tr>
-<td width="30%">
-
-<video src="https://github.com/user-attachments/assets/a2782f94-dd35-412d-b7bb-9966356aa75e" height="120px" style="width: auto; max-width: 100%;" controls></video>
+<td width="30%" height="130px">
+<video src="https://github.com/user-attachments/assets/a2782f94-dd35-412d-b7bb-9966356aa75e" height="120px" style="width: auto; max-width: 100%;" controls controlslist="nodownload"></video>
 </td>
 <td>
 I used to be DJ Filetype SWF, <em>web-surfing music performance</em>, where I would DJ found websites that used autoplay. Video is from AND Festival in Liverpool, UK, 2011
 </td>
 </tr>
 <tr>
-<td width="300px">
+<td width="30%">
   <img src="https://github.com/user-attachments/assets/d48b0121-dc5a-4f92-b832-ae3fddb653bd" height="120px" style="width: auto; max-width: 100%;" alt="dj filetype swf">
 
 </td>
