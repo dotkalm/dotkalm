@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="30%">
-<img src="https://github.com/user-attachments/assets/c8676e21-c833-44de-9020-98b5219523e6" height="120px" style="width: auto; max-width: 100%;" alt="francesca">
+<img src="https://github.com/user-attachments/assets/c8676e21-c833-44de-9020-98b5219523e6" height="240px" style="width: auto; max-width: 100%;" alt="francesca">
 </td>
 <td>
 A programmer, an artist, a father
@@ -25,7 +25,7 @@ https://boingboing.net/2010/02/23/rachel-maddow-on-dog.html
 </tr>
 <tr>
 <td width="30%">
- <img src="https://github.com/user-attachments/assets/71e56717-b864-4edc-ac76-30a665791371" height="120px" style="width: auto; max-width: 100%;" alt="bob">
+ <img src="https://github.com/user-attachments/assets/71e56717-b864-4edc-ac76-30a665791371" height="240px" style="width: auto; max-width: 100%;" alt="bob">
 </td>
 <td>
 I was a founder of NastyNets, an influential <em>web surfing blog</em>. Here I am at the Sundance Festival showing Robert Redford all of my <em>taco related purchases</em>
@@ -43,11 +43,19 @@ I used to be DJ Filetype SWF, <em>web-surfing music performance</em>, where I wo
 </tr>
 <tr>
 <td width="30%">
-  <img src="https://github.com/user-attachments/assets/d48b0121-dc5a-4f92-b832-ae3fddb653bd" height="120px" style="width: auto; max-width: 100%;" alt="dj filetype swf">
+  <img src="https://github.com/user-attachments/assets/d48b0121-dc5a-4f92-b832-ae3fddb653bd" height="240px" style="width: auto; max-width: 100%;" alt="modern office furniture">
 
 </td>
 <td>
-I have an MFA in Sculpture from Yale, 2013
+I have an MFA in Sculpture from Yale, 2013. <em>Modern Office Furniture</em>, 2013
+</td>
+</tr>
+<tr>
+<td width="30%">
+  <img src="https://github.com/user-attachments/assets/dcfe8b63-74c8-4513-93fb-5d70d4d3d659" height="240px" style="width: auto; max-width: 100%;" alt="Hammer Museum">
+</td>
+<td>
+I made large scale paintings of websites and showed them at the <strong>Hammer Museum</strong> in 2016
 </td>
 </tr>
 </table>
