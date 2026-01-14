@@ -36,7 +36,14 @@ https://anthology.rhizome.org/nasty-nets
 </tr>
 <tr>
 <td>
-<video src="https://github.com/user-attachments/assets/8fda210e-75f8-4941-981d-72a8cdccd02a" width="400px" width="300px" controls></video>
+
+
+
+https://github.com/user-attachments/assets/a2782f94-dd35-412d-b7bb-9966356aa75e
+
+
+
+
 </td>
 <td>
  Me preforming as DJ Filetype SWF at the AND Festival in Liverpool, UK, 2011.  A `web-surfing music performance` where I would DJ found websites that used autoplay. 
