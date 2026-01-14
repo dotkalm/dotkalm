@@ -5,6 +5,15 @@
 <td width="50%">
 
 ![IMG_E1292_small](https://github.com/user-attachments/assets/c8676e21-c833-44de-9020-98b5219523e6)
+</td>
+<td>
+A programmer, an artist, a father
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github.com/user-attachments/assets/01fc1048-fe1b-4cbd-905f-cb6808c62741" width="100%" alt="pups">
 
 </td>
 <td width="50%">
@@ -13,21 +22,28 @@ In 2009 I had some viral fame for creating a grid of found youtube videos showin
 
 https://boingboing.net/2010/02/23/rachel-maddow-on-dog.html
 
+</td>
+</tr>
+<tr>
+<td>
 That post was on nastynets.com, a `web surfing blog` I made with a few other folks.
 
 https://anthology.rhizome.org/nasty-nets
+</td>
+<td>
+That post was on nastynets.com, a `web surfing blog` I made with a few other folks.
 
+https://anthology.rhizome.org/nasty-nets
 </td>
 </tr>
 <tr>
 <td>
 
-<img src="https://github.com/user-attachments/assets/01fc1048-fe1b-4cbd-905f-cb6808c62741" width="100%" alt="pups">
-
+https://github.com/user-attachments/assets/8fda210e-75f8-4941-981d-72a8cdccd02a
 </td>
 <td>
+ Me preforming as DJ Filetype SWF at the AND Festival in Liverpool, UK, 2011.  A `web-surfing music performance` where I would DJ found websites that used autoplay. 
 
-https://github.com/user-attachments/assets/8fda210e-75f8-4941-981d-72a8cdccd02a
 
 </td>
 </tr>
