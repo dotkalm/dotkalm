@@ -13,7 +13,7 @@ A programmer, an artist, a father
 <tr>
 <td width="50%">
 
-<img src="https://github.com/user-attachments/assets/01fc1048-fe1b-4cbd-905f-cb6808c62741" width="100%" alt="pups">
+<img src="https://github.com/user-attachments/assets/01fc1048-fe1b-4cbd-905f-cb6808c62741" width="60%" alt="pups">
 
 </td>
 <td width="50%">
@@ -26,20 +26,17 @@ https://boingboing.net/2010/02/23/rachel-maddow-on-dog.html
 </tr>
 <tr>
 <td>
-That post was on nastynets.com, a `web surfing blog` I made with a few other folks.
-
-https://anthology.rhizome.org/nasty-nets
+ <img src="https://github.com/user-attachments/assets/71e56717-b864-4edc-ac76-30a665791371" width="60%" alt="pups">
 </td>
 <td>
-That post was on nastynets.com, a `web surfing blog` I made with a few other folks.
+I was a founder of NastyNets, an influential `web surfing blog`. Here I am at the Sundance Festival showing Robert Redford all of my `taco related purchases`
 
 https://anthology.rhizome.org/nasty-nets
 </td>
 </tr>
 <tr>
 <td>
-
-https://github.com/user-attachments/assets/8fda210e-75f8-4941-981d-72a8cdccd02a
+<video src="https://github.com/user-attachments/assets/8fda210e-75f8-4941-981d-72a8cdccd02a" width="400px" width="300px" controls></video>
 </td>
 <td>
  Me preforming as DJ Filetype SWF at the AND Festival in Liverpool, UK, 2011.  A `web-surfing music performance` where I would DJ found websites that used autoplay. 
