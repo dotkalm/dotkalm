@@ -10,8 +10,8 @@ A programmer, an artist, a father
 </td>
 </tr>
 <tr>
- <td width="30%">
-<img src="https://github.com/user-attachments/assets/765890fb-d825-424c-aa34-79ce23190aa4" height="240px" style="width: auto; max-width: 100%;" alt="ice cream">
+ <td width="30%"  height="240px" >
+<img src="https://github.com/user-attachments/assets/765890fb-d825-424c-aa34-79ce23190aa4" height="240px"  style="width: auto; max-width: 100%;" alt="ice cream">
 </td>
 <td width="50%">
 I wrote a program recently for for generating static SVG visualizations from still images using audio signals. <br/> View the repo -> 
