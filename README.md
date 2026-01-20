@@ -54,6 +54,15 @@ A tool for animating still images using audio signals. <br/> View the repo ->
 
 </td>
 </tr>
+<tr>
+ <td width="30%"  height="240px" >
+<img src="https://github.com/user-attachments/assets/de0fe903-b18b-4cac-8de6-4777e2cb5ee4" height="240px"  style="width: auto; max-width: 100%;" alt="garage door">
+</td>
+<td width="50%">
+During covid I set up a webhook for my garage door and made my <a href="https://github.com/dotkalm/garageDoor">garage door activity public</a>
+
+</td>
+</tr>
 
 </table>
 
