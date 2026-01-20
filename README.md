@@ -63,7 +63,14 @@ During covid I set up a webhook for my garage door and made my <a href="https://
 
 </td>
 </tr>
-
+<tr>
+ <td width="30%"  height="240px" >
+<img src="https://github.com/user-attachments/assets/ebcb5228-b9d6-4308-a30a-0340f2d3455c" height="240px"  style="width: auto; max-width: 100%;" alt="1st try">
+</td>
+<td width="50%">
+In 2021 I published a browser extension for solving wordle. <a href="https://github.com/dotkalm/WordleSolver/tree/main">View the repo </a>
+</td>
+</tr
 </table>
 
 
