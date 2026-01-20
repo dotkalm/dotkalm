@@ -10,11 +10,21 @@ A programmer, an artist, a father
 </td>
 </tr>
 <tr>
+<td width="30%"  height="240px" >
+<img src="https://github.com/user-attachments/assets/478026a5-c1c6-4392-9a30-f7d426ff26f2" height="240px"  style="width: auto; max-width: 100%;" alt="svg webcam">
+</td>
+<td width="50%">
+I recently made a webcam that creates new SVG markup every frame <br/> View the repo -> 
+ <a href="https://github.com/dotkalm/SVGWebcam">SVG Webcam</a> <br/>and use it here -> <a href="https://s-v-g.xyz">https://s-v-g.xyz</a>
+
+</td>
+</tr>
+<tr>
  <td width="30%"  height="240px" >
 <img src="https://github.com/user-attachments/assets/765890fb-d825-424c-aa34-79ce23190aa4" height="240px"  style="width: auto; max-width: 100%;" alt="ice cream">
 </td>
 <td width="50%">
-I wrote a program recently for for generating static SVG visualizations from still images using audio signals. <br/> View the repo -> 
+I wrote a program recently for animating still images using audio signals. <br/> View the repo -> 
   <a href="https://github.com/dotkalm/img-2-.wav-2-.xlsx-2-.svg">img-2-.wav-2-.xlsx-2-.svg</a>
 
 </td>
