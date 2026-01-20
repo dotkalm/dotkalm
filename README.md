@@ -1,18 +1,19 @@
-# Joel Holmberg
+# Joel Holmberg, 2026
 
 <table>
 <tr>
-<td width="30%">
-<img src="https://github.com/user-attachments/assets/c8676e21-c833-44de-9020-98b5219523e6" height="240px" style="width: auto; max-width: 100%;" alt="francesca">
-</td>
-<td>
-A programmer, an artist, a father
-</td>
-</tr>
- </table>
+<td width="480px" height="240px">
 
-## Recent projects
-<table>
+ <img src="https://github.com/user-attachments/assets/c8676e21-c833-44de-9020-98b5219523e6" width="100%" alt="francesca">
+ 
+</td>
+
+<td width="70%">
+ A programmer, an artist, a father
+</td>
+
+</tr>
+
  <tr>
 <td width="30%"  height="240px" >
 <img src="https://github.com/user-attachments/assets/478026a5-c1c6-4392-9a30-f7d426ff26f2" height="240px"  style="width: auto; max-width: 100%;" alt="svg webcam">
