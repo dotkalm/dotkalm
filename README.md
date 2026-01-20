@@ -20,6 +20,15 @@ I recently made a webcam that creates new SVG markup every frame <br/> View the 
 </td>
 </tr>
 <tr>
+<td width="30%"  height="240px" >
+   <img src="https://github.com/user-attachments/assets/34473723-04a6-4008-98ec-0b4933c179a7" width="100%" alt="booted demo"/>
+</td>
+<td width="50%">
+I made a full-stack app using image recognition machine learning solely for the purpose of pranking people that their car was BOOTED. Find the <a href="https://github.com/dotkalm/BootedWebAppFrontend/tree/main">front-end repo here</a> and the <a href="https://github.com/dotkalm/booted-server">back-end api here</a>. 
+
+</td>
+</tr>
+<tr>
  <td width="30%"  height="240px" >
 <img src="https://github.com/user-attachments/assets/765890fb-d825-424c-aa34-79ce23190aa4" height="240px"  style="width: auto; max-width: 100%;" alt="ice cream">
 </td>
